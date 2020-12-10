@@ -1,5 +1,6 @@
 <webapp>
 	<servlet>
+		<servlet-class></servlet-class>
 	</servlet>
 	<servlet-mapping>
 	</servlet-mapping>
