@@ -1,4 +1,6 @@
 <webapp>
 	<servlet>
 	</servlet>
+	<servlet-mapping>
+	</servlet-mapping>
 </webapp>
