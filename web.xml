@@ -1,5 +1,6 @@
 <webapp>
 	<servlet>
+		<servlet-name>dispatcher</servlet-name>
 		<servlet-class>com.sxt.TestServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
